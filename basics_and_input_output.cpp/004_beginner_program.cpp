@@ -1,3 +1,5 @@
+// Q4. Check if a number is even or odd
+
 #include <iostream>
 using namespace std;
 
@@ -9,7 +11,7 @@ int main(){
         cout<<num<<" is an even number"<<endl;
     }
     else{
-        cout<<num<<"is a odd number";
+        cout<<num<<" is a odd number";
     }
     return 0;
 }
